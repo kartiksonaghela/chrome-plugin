@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "name":"YouTube Sentiment Analysis",
+    "version":"1.0",
+    "descriptions":"Send random text to API and recieve Sentiment response",
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "permission":["scripting"]
+}
